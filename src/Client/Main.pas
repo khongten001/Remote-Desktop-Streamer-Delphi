@@ -1155,7 +1155,6 @@ begin
       if sl[0] = 'Wheel' then
       begin
         try
-          messagesLog.Lines.Add('Wheel event received from server');
           if sl.Count >= 2 then
           begin
             ScrollEvt.Offset := StrToIntDef(sl[1], 0);
