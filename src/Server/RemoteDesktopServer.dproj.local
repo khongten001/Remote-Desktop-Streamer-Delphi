@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/05 13:12:44.000.887,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/05 13:13:28.000.672,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_base(gdi)\srv\Unit1.pas=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/05 13:13:28.000.672,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_base(gdi)\srv\Unit1.dfm=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/05/05 13:13:46.000.126,C:\Users\leet\Documents\Embarcadero\Studio\Projects\srv.dproj=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/05/05 13:13:55.000.721,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_base(gdi)\srv\srv.dproj=C:\Users\leet\Documents\Embarcadero\Studio\Projects\srv.dproj</Transaction>
+    <Transaction>2025/05/05 13:58:29.000.668,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_base(gdi)\srv\srv.dproj=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_base(gdi)\srv\Server.dproj</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.374,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_decoder.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.340,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\libyuv.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.384,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_image.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.367,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXRegionEncoder.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.343,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8cx.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.379,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_encoder.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.362,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXDecoder.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.365,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXEncoder.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.346,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8dx.pas</Transaction>
+    <Transaction>2025/05/05 15:36:46.000.370,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_codec.pas</Transaction>
+    <Transaction>2025/05/05 15:46:28.000.978,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8cx.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:28.000.992,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8dx.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:28.000.919,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\libyuv.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.001,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXDecoder.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.065,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_encoder.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.085,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_image.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.042,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_codec.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.027,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXRegionEncoder.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.052,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_decoder.pas=</Transaction>
+    <Transaction>2025/05/05 15:46:29.000.015,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXEncoder.pas=</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.852,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\video_encoder_vpx.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.860,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXRegionEncoder.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.863,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_codec.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.872,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_image.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.857,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8dx.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.846,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\libyuv.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.849,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\video_decoder_vpx.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.866,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_decoder.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.869,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vpx_encoder.pas</Transaction>
+    <Transaction>2025/05/05 15:47:27.000.854,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\vp8cx.pas</Transaction>
+    <Transaction>2025/05/05 15:48:10.000.712,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\codec\VPXRegionEncoder.pas=</Transaction>
+    <Transaction>2025/05/05 19:07:33.000.293,=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Unit2.pas</Transaction>
+    <Transaction>2025/05/05 19:07:47.000.092,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Unit2.pas=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\PanelDisplay.pas</Transaction>
+    <Transaction>2025/05/07 20:52:15.000.612,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Main.dfm=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Unit1.dfm</Transaction>
+    <Transaction>2025/05/07 20:52:15.000.612,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Main.pas=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_base_gdi_codec\Server\Unit1.pas</Transaction>
+    <Transaction>2025/05/10 12:19:31.155,D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_gdi_dxgi_codec_v1.0\Server\RemoteDesktopServer.dproj=D:\_Delphi\_Projects\Remote Desktop NEW\RemoteDekstop_single_gdi_dxgi_codec_v1.0\Server\Server.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
