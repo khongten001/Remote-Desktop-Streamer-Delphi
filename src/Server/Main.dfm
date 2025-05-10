@@ -193,7 +193,6 @@ object Form1: TForm1
     Height = 520
     Align = alClient
     ExplicitWidth = 836
-    ExplicitHeight = 522
   end
   object Panel1: TPanel
     Left = 0
@@ -277,7 +276,7 @@ object Form1: TForm1
         Anchors = [akLeft, akBottom]
         Caption = 'Keyboard'
         TabOrder = 1
-        OnClick = cbMouseControlClick
+        OnClick = cbKeyboardControlClick
       end
     end
   end

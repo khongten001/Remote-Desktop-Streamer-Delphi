@@ -117,10 +117,9 @@ begin
   if nCode < 0 then
     Exit(CallNextHookEx(Form1.FHookHandle, nCode, wParam, lParam));
 
-  // Get the foreground window
+  // Check if our form is active and keyboard control is enabled
   ForegroundWindow := GetForegroundWindow;
 
-  // Only proceed if our form is active and checkbox is checked
   if (ForegroundWindow = Form1.Handle) and Form1.cbKeyboardControl.Checked then
   begin
     // Get current cursor position
@@ -129,7 +128,7 @@ begin
     // Convert to form's client coordinates
     ClientPoint := Form1.ScreenToClient(CursorPos);
 
-    // Check if cursor is over the display image area (not just the panel)
+    // Check if cursor is over the display panel area
     if Form1.IsPointInDisplayPanel(ClientPoint) then
     begin
       // Access the keyboard event structure
