@@ -1155,10 +1155,18 @@ begin
       if sl[0] = 'Wheel' then
       begin
         try
+          messagesLog.Lines.Add('Wheel event received from server');
           if sl.Count >= 2 then
           begin
             ScrollEvt.Offset := StrToIntDef(sl[1], 0);
+          end
+          else
+          begin
+            messagesLog.Lines.Add('Warning: Wheel event missing offset parameter');
           end;
+
+          InputManager.SendInput(ScrollEvt);
+
         except
           on E: Exception do
             messagesLog.Lines.Add('Wheel event error: ' + E.Message);
